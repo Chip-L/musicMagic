@@ -1,1 +1,8 @@
+.searchBox {
+  border: 5px solid black;
+}
 
+#logo {
+  width: 200px;
+  height: 115px;
+}
